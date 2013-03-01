@@ -17,6 +17,7 @@ This will be included in the documentation
 
 ## License
 This library is under the MIT license. Refer to the complete license in the bundle:
+
     Resources/meta/LICENSE
 
 ## Issues
