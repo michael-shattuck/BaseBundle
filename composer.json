@@ -18,16 +18,10 @@
     },
     "require-dev": {
         "doctrine/doctrine-bundle": "*",
-        "swiftmailer/swiftmailer": "*",
         "symfony/yaml": "2.1.*"
     },
     "autoload": {
         "psr-0": { "Clamidity\\BaseBundle": "" }
     },
-    "target-dir": "Clamidity/BaseBundle",
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0.x-dev"
-        }
-    }
+    "target-dir": "Clamidity/BaseBundle"
 }
